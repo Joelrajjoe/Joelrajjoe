@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Joelraj J
 
-**Data Science Passionate | AI Enthusiast | **
+Data Science Passionate | AI Enthusiast |
 
 ---
 

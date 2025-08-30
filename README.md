@@ -5,11 +5,11 @@
   <!-- Animated Wave Header -->
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=Welcome&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
-  <!-- Name Animation -->
-  ![Name Animation](https://readme-typing-svg.demolab.com?font=Orbitron&size=40&duration=3000&pause=1000&color=39FF14&center=true&width=650&lines=Hi+All%2C+I'm+Joelraj+J)
+  <!-- Name with Neon Glow -->
+  <img src="https://capsule-render.vercel.app/api?type=waveText&text=✨ Hi All, I'm Joelraj J ✨&fontSize=40&color=39FF14&height=80&animation=fadeIn" alt="Name Neon"/>
 
-  <!-- Role Animation -->
-  ![Role Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1500&color=00FFFF&center=true&width=650&lines=💻+Data+Science+Enthusiast;🤖+AI+Practitioner;🚀+Innovation+Explorer)
+  <!-- Role with Neon Glow -->
+  <img src="https://capsule-render.vercel.app/api?type=waveText&text=💻 Data Science Enthusiast · 🤖 AI Practitioner · 🚀 Innovation Explorer&fontSize=22&color=00FFFF&height=60&animation=fadeIn" alt="Role Neon"/>
 
   <!-- Location -->
   <p>
@@ -35,7 +35,7 @@
 
 ## 🌟 Profile Summary
 
-![Summary Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=2000&color=FFFFFF&center=true&multiline=true&width=650&lines=Passionate+Data+Science+and+AI+enthusiast+focused+on;building+intelligent+solutions+for+real-world+challenges.;Experienced+in+developing+AI-driven+projects+through;hackathons%2C+internships%2C+and+hands-on+practice.;Constantly+exploring+innovative+ideas+and+learning;opportunities+to+push+the+boundaries+of+technology.)
+<img src="https://capsule-render.vercel.app/api?type=waveText&text=Passionate+Data+Science+and+AI+enthusiast,+building+intelligent+solutions+for+real-world+challenges,+experienced+in+AI-driven+projects+via+hackathons+and+internships.&fontSize=16&color=FFFFFF&height=100&animation=fadeIn" alt="Summary Neon"/>
 
 ---
 
@@ -47,8 +47,7 @@
 <td width="50%" align="center">
 
 ### 💻 CodeDuel
-<img src="https://img.shields.io/badge/MERN-39FF14?style=flat-square&labelColor=0a0a0a" />
-<img src="https://img.shields.io/badge/WebSockets-39FF14?style=flat-square&labelColor=0a0a0a" />
+<img src="https://capsule-render.vercel.app/api?type=shinyText&text=MERN%20·%20WebSockets&fontSize=18&color=39FF14&height=40" />
 <br>
 Real-time 1v1 coding battle platform with matchmaking, live leaderboard, and virtual tokens (MockCoins).
 <br>
@@ -58,8 +57,7 @@ Real-time 1v1 coding battle platform with matchmaking, live leaderboard, and vir
 <td width="50%" align="center">
 
 ### 📊 Social Media Sentiment Dashboard
-<img src="https://img.shields.io/badge/React-00FFFF?style=flat-square&labelColor=0a0a0a" />
-<img src="https://img.shields.io/badge/BERT-00FFFF?style=flat-square&labelColor=0a0a0a" />
+<img src="https://capsule-render.vercel.app/api?type=shinyText&text=React%20·%20BERT&fontSize=18&color=00FFFF&height=40" />
 <br>
 Responsive UI to visualize Twitter sentiment using transformer-based REST APIs.
 <br>
@@ -71,9 +69,7 @@ Responsive UI to visualize Twitter sentiment using transformer-based REST APIs.
 <td width="50%" align="center">
 
 ### 📰 Fake News Detector
-<img src="https://img.shields.io/badge/Python-FF6EC7?style=flat-square&labelColor=0a0a0a" />
-<img src="https://img.shields.io/badge/NLP-FF6EC7?style=flat-square&labelColor=0a0a0a" />
-<img src="https://img.shields.io/badge/Streamlit-FF6EC7?style=flat-square&labelColor=0a0a0a" />
+<img src="https://capsule-render.vercel.app/api?type=shinyText&text=Python%20·%20NLP%20·%20Streamlit&fontSize=18&color=FF6EC7&height=40" />
 <br>
 Real-time classifier with confidence scores and news date extraction.
 <br>
@@ -83,7 +79,7 @@ Real-time classifier with confidence scores and news date extraction.
 <td width="50%" align="center">
 
 ### 🏃 Personal Fitness Tracker
-<img src="https://img.shields.io/badge/Python-39FF14?style=flat-square&labelColor=0a0a0a" />
+<img src="https://capsule-render.vercel.app/api?type=shinyText&text=Python&fontSize=18&color=39FF14&height=40" />
 <br>
 Health metrics tracker and visualizer; built during AI internship.
 <br>
@@ -95,8 +91,7 @@ Health metrics tracker and visualizer; built during AI internship.
 <td colspan="2" align="center">
 
 ### 🆔 ID Card Generator
-<img src="https://img.shields.io/badge/Java-00FFFF?style=flat-square&labelColor=0a0a0a" />
-<img src="https://img.shields.io/badge/SQL-00FFFF?style=flat-square&labelColor=0a0a0a" />
+<img src="https://capsule-render.vercel.app/api?type=shinyText&text=Java%20·%20SQL&fontSize=18&color=00FFFF&height=40" />
 <br>
 Automated academic ID card generation with form input and database storage.
 <br>
@@ -134,7 +129,7 @@ Automated academic ID card generation with form input and database storage.
 
 ## 💡 Soft Skills
 
-![Soft Skills](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=1000&color=39FF14&center=true&multiline=true&width=650&height=100&lines=🗣+Persuasive+Speaking+·+🧠+Problem+Solving+·+🤝+Teamwork;⏱+Time+Management+·+🏆+Leadership+·+💬+Effective+Communication;🔍+Critical+Thinking+·+💡+Idea+Development)
+<img src="https://capsule-render.vercel.app/api?type=waveText&text=🗣 Persuasive+Speaking · 🧠 Problem+Solving · 🤝 Teamwork · ⏱ Time+Management · 🏆 Leadership · 💬 Effective+Communication · 🔍 Critical+Thinking · 💡 Idea+Development&fontSize=18&color=39FF14&height=80&animation=fadeIn" alt="Soft Skills Neon"/>
 
 ---
 

@@ -76,6 +76,3 @@ Passionate Data Science and AI enthusiast focused on building intelligent soluti
 
 ---
 
-<div align="center">
-✨ <span style="color:#39ff14;">Hi, I'm Joelraj!</span> ✨ | 🚀 <span style="color:#00ffff;">Data Science Enthusiast</span> | 🤖 <span style="color:#ff6ec7;">AI Practitioner</span>
-</div>

@@ -1,96 +1,92 @@
-<!-- Animated Banner -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Joelrajjoe/Joelrajjoe/main/banner.gif" alt="Joelraj J | Data Science & AI Enthusiast" width="95%">
-</p>
+<!-- ====== GitHub Profile README ====== -->
 
-
-<!-- Glowing Motion Text -->
-<p align="center">
-  <svg viewBox="0 0 1000 200" xmlns="http://www.w3.org/2000/svg">
-    <text x="50%" y="50%" text-anchor="middle"
-          fill="url(#gradient)" font-size="48" font-family="Poppins, sans-serif">
-      Hi All, I'm Joelraj
-      <animate attributeName="fill" values="#00e1ff;#ff00f7;#00e1ff" dur="4s" repeatCount="indefinite"/>
-    </text>
-    <defs>
-      <linearGradient id="gradient" gradientTransform="rotate(90)">
-        <stop offset="0%" stop-color="#00e1ff"/>
-        <stop offset="100%" stop-color="#ff00f7"/>
-      </linearGradient>
-    </defs>
-  </svg>
-</p>
-
+<div align="center">
+  <h1 style="font-family: 'Courier New', monospace; font-size:3em; color:#39ff14; text-shadow: 0 0 5px #39ff14, 0 0 10px #39ff14, 0 0 20px #39ff14;">Hi All, I'm Joelraj J</h1>
+  <p style="font-family: 'Verdana', sans-serif; font-size:1.2em; color:#00ffff; text-shadow: 0 0 3px #00ffff, 0 0 7px #00ffff;">Data Science Enthusiast | AI Practitioner</p>
+  <p style="font-family: 'Verdana', sans-serif; color:#ff6ec7;">Puducherry, India</p>
+  
+  <p>
+    <a href="mailto:joelraj712@gmail.com" style="text-decoration:none; color:#39ff14;">Email</a> |
+    <a href="https://www.linkedin.com/in/joelraj-j-370300293" style="text-decoration:none; color:#00ffff;">LinkedIn</a> |
+    <a href="https://github.com/Joelrajjoe" style="text-decoration:none; color:#ff6ec7;">GitHub</a>
+  </p>
+</div>
 
 ---
 
-## 🌟 About Me  
-
-I am a **Data Science & AI enthusiast** passionate about solving real-world challenges with intelligent solutions.  
-🏆 Experienced through **hackathons, internships, and AI-driven projects**.  
-⚡ Always exploring **new technologies and innovative ideas** to push the limits.  
-
----
-
-## 🚀 Major Projects  
-
-| Project | Tech Stack | Highlights |
-|---------|------------|------------|
-| **CodeDuel** | MERN, WebSockets | Real-time **1v1 coding battle** with matchmaking, live leaderboard & MockCoins |
-| **Social Media Sentiment Dashboard** | React, BERT | Transformer-based **Twitter sentiment visualization** with responsive UI |
-| **Fake News Detector** | Python, NLP, Streamlit | Real-time classifier with **confidence scores & news date extraction** |
-| **Personal Fitness Tracker** | Python | Tracks & visualizes **health metrics** (Internship project) |
-| **ID Card Generator** | Java, SQL | Automated academic ID card generator with **database storage** |
-
----
-
-## 🛠️ Tech Skills  
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,mysql,react,nodejs,express,mongodb,git,github,html,css,js" height="45" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=vscode,idea,figma,canva,powerbi" height="45" />
+###  Profile Summary
+<p style="font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size:1em; color:#ffffff;">
+Passionate Data Science and AI enthusiast focused on building intelligent solutions for real-world challenges. Experienced in developing AI-driven projects through hackathons, internships, and hands-on practice. Constantly exploring innovative ideas and learning opportunities to push the boundaries of technology.
 </p>
 
 ---
 
-## 💡 Soft Skills  
+###  Projects
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Persuasive_Speaking-5BC0BE?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Problem_Solving-FF7F50?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Teamwork-9370DB?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Leadership-FFD700?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Communication-DC143C?style=for-the-badge" />
+<div style="display:flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+
+<div style="border:1px solid #39ff14; border-radius:15px; padding:20px; width:300px; background-color:#0a0a0a; box-shadow: 0 0 10px #39ff14;">
+  <h3 style="color:#39ff14;">CodeDuel (MERN, WebSockets)</h3>
+  <p style="color:#ffffff;">Real-time 1v1 coding battle platform with matchmaking, live leaderboard, and virtual tokens (MockCoins).</p>
+</div>
+
+<div style="border:1px solid #00ffff; border-radius:15px; padding:20px; width:300px; background-color:#0a0a0a; box-shadow: 0 0 10px #00ffff;">
+  <h3 style="color:#00ffff;">Social Media Sentiment Dashboard (React, BERT)</h3>
+  <p style="color:#ffffff;">Responsive UI to visualize Twitter sentiment using transformer-based REST APIs.</p>
+</div>
+
+<div style="border:1px solid #ff6ec7; border-radius:15px; padding:20px; width:300px; background-color:#0a0a0a; box-shadow: 0 0 10px #ff6ec7;">
+  <h3 style="color:#ff6ec7;">Fake News Detector (Python, NLP, Streamlit)</h3>
+  <p style="color:#ffffff;">Real-time classifier with confidence scores and news date extraction.</p>
+</div>
+
+<div style="border:1px solid #39ff14; border-radius:15px; padding:20px; width:300px; background-color:#0a0a0a; box-shadow: 0 0 10px #39ff14;">
+  <h3 style="color:#39ff14;">Personal Fitness Tracker (Python)</h3>
+  <p style="color:#ffffff;">Health metrics tracker and visualizer; built during AI internship.</p>
+</div>
+
+<div style="border:1px solid #00ffff; border-radius:15px; padding:20px; width:300px; background-color:#0a0a0a; box-shadow: 0 0 10px #00ffff;">
+  <h3 style="color:#00ffff;">ID Card Generator (Java, SQL)</h3>
+  <p style="color:#ffffff;">Automated academic ID card generation with form input and database storage.</p>
+</div>
+
+</div>
+
+---
+
+###  Technical Skills
+<div style="display:flex; flex-wrap: wrap; gap: 10px; justify-content:center;">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/BERT-FF6EC7?style=for-the-badge&logo=transformers&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST%20APIs-00ffff?style=for-the-badge&logo=rest-api&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+</div>
+
+---
+
+###  Soft Skills
+<p style="color:#ffffff; font-family:'Verdana', sans-serif;">
+Persuasive Speaking · Problem Solving · Teamwork · Time Management · Leadership · Effective Communication · Critical Thinking · Idea Development
 </p>
 
 ---
 
-## 📊 GitHub Analytics  
+<div align="center">
+  <h2 id="animated-text" style="color:#39ff14; font-family:'Courier New', monospace; text-shadow:0 0 5px #39ff14,0 0 10px #39ff14;">Hi, I'm Joelraj!</h2>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Joelrajjoe&show_icons=true&theme=radical&count_private=true&hide_border=true" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Joelrajjoe&theme=radical&hide_border=true" height="160" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Joelrajjoe&theme=react-dark&hide_border=true&area=true" width="95%">
-</p>
-
----
-
-## 🌐 Connect with Me  
-
-<p align="center">
-  <a href="mailto:joelraj712@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/joelraj-j-370300293"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/Joelrajjoe"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-</p>
-
----
-
-
-
-<p align="center">
-  <i>“Building, learning, and collaborating to solve real-world problems with technology.”</i>
-</p>
+<script>
+const greeting = ["Hi, I'm Joelraj!", "Data Science Enthusiast", "AI Practitioner"];
+let i = 0;
+function animateText() {
+  document.getElementById("animated-text").innerText = greeting[i];
+  i = (i + 1) % greeting.length;
+}
+setInterval(animateText, 2500);
+</script>

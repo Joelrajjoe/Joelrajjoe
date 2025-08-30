@@ -4,21 +4,21 @@ Data Science Passionate | AI Enthusiast |
 
 ---
 
-## 📍 Puducherry, India  
+##  Puducherry, India  
 📧 [joelraj712@gmail.com](mailto:joelraj712@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/joelraj-j-370300293t)  
 🔗 [GitHub](https://github.com/Joelrajjoe)
 
 ---
 
-### 🚀 Profile Summary
+###  Profile Summary
 
 Passionate Data Science and AI enthusiast focused on building intelligent solutions that solve real-world challenges. Experienced in developing AI-driven projects through hackathons, internships, and hands-on practice. Constantly exploring innovative ideas and learning opportunities to push the boundaries of technology.
 
 
 ---
 
-### 💻 Projects
+###  Projects
 
 - **CodeDuel (MERN, WebSockets):**  
   Real-time 1v1 coding battle platform with matchmaking, live leaderboard, and virtual tokens (MockCoins).
@@ -37,7 +37,7 @@ Passionate Data Science and AI enthusiast focused on building intelligent soluti
 
 ---
 
-### 🧑‍💻 Technical Skills
+###  Technical Skills
 
 - **Programming:** Python, Java
 - **Production Tools:** Power BI, Excel, VS Code, IntelliJ, Google Colab, Jupyter Notebook
@@ -48,7 +48,7 @@ Passionate Data Science and AI enthusiast focused on building intelligent soluti
 ---
 
 
-### 🛠️ Soft Skills
+### 🛠 Soft Skills
 
 Persuasive Speaking · Problem Solving · Teamwork · Time Management · Leadership · Effective Communication · Critical Thinking · Ideas Development
 
@@ -59,5 +59,5 @@ Persuasive Speaking · Problem Solving · Teamwork · Time Management · Leaders
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Joelrajjoet&show_icons=true&theme=radical" alt="Joelraj J's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Joelrajjoe&show_icons=true&theme=radical" alt="Joelraj J's GitHub stats" />
 </p>

@@ -5,14 +5,14 @@
 
 <!-- Glowing Motion Text -->
 <p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=👋%20Hi%20all%2C%20I'm%20Joelraj&width=800&height=150" alt="Glowing Motion Text" />
+  <img src="https://svg-banners.vercel.app/api?type=shine&text1=Hi%20all,%20I'm%20Joelraj&width=800&height=100" alt="Glowing Neon Text" />
 </p>
 
 ---
 
 ## 🌟 About Me  
 
-✨ A **Data Science & AI enthusiast** passionate about solving real-world challenges with intelligent solutions.  
+I am a **Data Science & AI enthusiast** passionate about solving real-world challenges with intelligent solutions.  
 🏆 Experienced through **hackathons, internships, and AI-driven projects**.  
 ⚡ Always exploring **new technologies and innovative ideas** to push the limits.  
 
@@ -20,13 +20,13 @@
 
 ## 🚀 Major Projects  
 
-| 🚩 Project | ⚙️ Tech Stack | 🌟 Highlights |
-|------------|--------------|---------------|
-| **⚔️ CodeDuel** | MERN, WebSockets | Real-time **1v1 coding battle** with matchmaking, live leaderboard & MockCoins |
-| **📊 Social Media Sentiment Dashboard** | React, BERT | Transformer-based **Twitter sentiment visualization** with responsive UI |
-| **📰 Fake News Detector** | Python, NLP, Streamlit | Real-time classifier with **confidence scores & news date extraction** |
-| **🏃 Personal Fitness Tracker** | Python | Tracks & visualizes **health metrics** (Internship project) |
-| **🎓 ID Card Generator** | Java, SQL | Automated academic ID card generator with **database storage** |
+| Project | Tech Stack | Highlights |
+|---------|------------|------------|
+| **CodeDuel** | MERN, WebSockets | Real-time **1v1 coding battle** with matchmaking, live leaderboard & MockCoins |
+| **Social Media Sentiment Dashboard** | React, BERT | Transformer-based **Twitter sentiment visualization** with responsive UI |
+| **Fake News Detector** | Python, NLP, Streamlit | Real-time classifier with **confidence scores & news date extraction** |
+| **Personal Fitness Tracker** | Python | Tracks & visualizes **health metrics** (Internship project) |
+| **ID Card Generator** | Java, SQL | Automated academic ID card generator with **database storage** |
 
 ---
 
@@ -43,11 +43,11 @@
 ## 💡 Soft Skills  
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Persuasive_Speaking-5BC0BE?style=for-the-badge&logo=speakerdeck" />
-  <img src="https://img.shields.io/badge/Problem_Solving-FF7F50?style=for-the-badge&logo=target" />
-  <img src="https://img.shields.io/badge/Teamwork-9370DB?style=for-the-badge&logo=teams" />
-  <img src="https://img.shields.io/badge/Leadership-FFD700?style=for-the-badge&logo=leader" />
-  <img src="https://img.shields.io/badge/Communication-DC143C?style=for-the-badge&logo=wechat" />
+  <img src="https://img.shields.io/badge/Persuasive_Speaking-5BC0BE?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Problem_Solving-FF7F50?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Teamwork-9370DB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Leadership-FFD700?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Communication-DC143C?style=for-the-badge" />
 </p>
 
 ---

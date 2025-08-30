@@ -1,67 +1,54 @@
 <!-- ====== GitHub Profile README ====== -->
 
-<div align="center" style="background-color:#0a0a0a; padding: 30px; border-radius:20px;">
+<div align="center" style="background-color:#0a0a0a; padding:30px; border-radius:20px;">
 
-  <!-- Animated Neon Heading -->
-  <h1 style="font-family: 'Courier New', monospace; font-size:3em; color:#39ff14; text-shadow: 0 0 5px #39ff14, 0 0 10px #39ff14, 0 0 20px #39ff14, 0 0 40px #39ff14, 0 0 80px #39ff14; animation: glow 1.5s infinite alternate;">
-    Hi All, I'm Joelraj J
-  </h1>
+  <!-- Neon heading simulated with colored text + shadow emojis -->
+  <h1 align="center">✨ <span style="color:#39ff14;">Hi All, I'm Joelraj J</span> ✨</h1>
+  <p>💻 <span style="color:#00ffff;">Data Science Enthusiast</span> | 🤖 <span style="color:#ff6ec7;">AI Practitioner</span></p>
+  <p>📍 <span style="color:#ffffff;">Puducherry, India</span></p>
 
-  <p style="font-family: 'Verdana', sans-serif; font-size:1.2em; color:#00ffff; text-shadow: 0 0 5px #00ffff, 0 0 10px #00ffff; animation: glow 2s infinite alternate;">
-    Data Science Enthusiast | AI Practitioner
-  </p>
-  <p style="font-family: 'Verdana', sans-serif; color:#ff6ec7; text-shadow: 0 0 5px #ff6ec7, 0 0 10px #ff6ec7;">Puducherry, India</p>
-
-  <!-- Links with glow effect -->
+  <!-- Contact Links with emojis -->
   <p>
-    <a href="mailto:joelraj712@gmail.com" style="text-decoration:none; color:#39ff14; text-shadow:0 0 5px #39ff14;">Email</a> |
-    <a href="https://www.linkedin.com/in/joelraj-j-370300293" style="text-decoration:none; color:#00ffff; text-shadow:0 0 5px #00ffff;">LinkedIn</a> |
-    <a href="https://github.com/Joelrajjoe" style="text-decoration:none; color:#ff6ec7; text-shadow:0 0 5px #ff6ec7;">GitHub</a>
+    📧 <a href="mailto:joelraj712@gmail.com" style="color:#39ff14;">Email</a> |
+    🔗 <a href="https://www.linkedin.com/in/joelraj-j-370300293" style="color:#00ffff;">LinkedIn</a> |
+    🐙 <a href="https://github.com/Joelrajjoe" style="color:#ff6ec7;">GitHub</a>
   </p>
 
 </div>
-
-<style>
-@keyframes glow {
-  from { text-shadow: 0 0 5px #39ff14, 0 0 10px #39ff14, 0 0 20px #39ff14, 0 0 40px #39ff14, 0 0 80px #39ff14; }
-  to { text-shadow: 0 0 20px #39ff14, 0 0 40px #39ff14, 0 0 80px #39ff14, 0 0 120px #39ff14, 0 0 200px #39ff14; }
-}
-</style>
 
 ---
 
 ### 🌟 Profile Summary
-<p style="font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size:1em; color:#ffffff;">
 Passionate Data Science and AI enthusiast focused on building intelligent solutions for real-world challenges. Experienced in developing AI-driven projects through hackathons, internships, and hands-on practice. Constantly exploring innovative ideas and learning opportunities to push the boundaries of technology.
-</p>
 
 ---
 
 ### 💻 Projects
-<div style="display:flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
 
-<div style="border:2px solid #39ff14; border-radius:15px; padding:20px; width:300px; background-color:#0a0a0a; box-shadow: 0 0 20px #39ff14; transition: transform 0.3s; hover: transform: scale(1.05);">
-  <h3 style="color:#39ff14;">💻 CodeDuel (MERN, WebSockets)</h3>
+<div style="display:flex; flex-wrap: wrap; justify-content:center; gap:15px;">
+
+<div style="border:2px solid #39ff14; border-radius:15px; padding:15px; width:300px; background-color:#0a0a0a; box-shadow:0 0 10px #39ff14;">
+  <h3>💻 <span style="color:#39ff14;">CodeDuel (MERN, WebSockets)</span></h3>
   <p style="color:#ffffff;">Real-time 1v1 coding battle platform with matchmaking, live leaderboard, and virtual tokens (MockCoins).</p>
 </div>
 
-<div style="border:2px solid #00ffff; border-radius:15px; padding:20px; width:300px; background-color:#0a0a0a; box-shadow: 0 0 20px #00ffff;">
-  <h3 style="color:#00ffff;">📊 Social Media Sentiment Dashboard (React, BERT)</h3>
+<div style="border:2px solid #00ffff; border-radius:15px; padding:15px; width:300px; background-color:#0a0a0a; box-shadow:0 0 10px #00ffff;">
+  <h3>📊 <span style="color:#00ffff;">Social Media Sentiment Dashboard (React, BERT)</span></h3>
   <p style="color:#ffffff;">Responsive UI to visualize Twitter sentiment using transformer-based REST APIs.</p>
 </div>
 
-<div style="border:2px solid #ff6ec7; border-radius:15px; padding:20px; width:300px; background-color:#0a0a0a; box-shadow: 0 0 20px #ff6ec7;">
-  <h3 style="color:#ff6ec7;">📰 Fake News Detector (Python, NLP, Streamlit)</h3>
+<div style="border:2px solid #ff6ec7; border-radius:15px; padding:15px; width:300px; background-color:#0a0a0a; box-shadow:0 0 10px #ff6ec7;">
+  <h3>📰 <span style="color:#ff6ec7;">Fake News Detector (Python, NLP, Streamlit)</span></h3>
   <p style="color:#ffffff;">Real-time classifier with confidence scores and news date extraction.</p>
 </div>
 
-<div style="border:2px solid #39ff14; border-radius:15px; padding:20px; width:300px; background-color:#0a0a0a; box-shadow: 0 0 20px #39ff14;">
-  <h3 style="color:#39ff14;">🏃 Personal Fitness Tracker (Python)</h3>
+<div style="border:2px solid #39ff14; border-radius:15px; padding:15px; width:300px; background-color:#0a0a0a; box-shadow:0 0 10px #39ff14;">
+  <h3>🏃 <span style="color:#39ff14;">Personal Fitness Tracker (Python)</span></h3>
   <p style="color:#ffffff;">Health metrics tracker and visualizer; built during AI internship.</p>
 </div>
 
-<div style="border:2px solid #00ffff; border-radius:15px; padding:20px; width:300px; background-color:#0a0a0a; box-shadow: 0 0 20px #00ffff;">
-  <h3 style="color:#00ffff;">🆔 ID Card Generator (Java, SQL)</h3>
+<div style="border:2px solid #00ffff; border-radius:15px; padding:15px; width:300px; background-color:#0a0a0a; box-shadow:0 0 10px #00ffff;">
+  <h3>🆔 <span style="color:#00ffff;">ID Card Generator (Java, SQL)</span></h3>
   <p style="color:#ffffff;">Automated academic ID card generation with form input and database storage.</p>
 </div>
 
@@ -70,38 +57,25 @@ Passionate Data Science and AI enthusiast focused on building intelligent soluti
 ---
 
 ### 🛠 Technical Skills
-<div style="display:flex; flex-wrap: wrap; gap: 10px; justify-content:center;">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/BERT-FF6EC7?style=for-the-badge&logo=transformers&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST%20APIs-00ffff?style=for-the-badge&logo=rest-api&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
-</div>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![BERT](https://img.shields.io/badge/BERT-FF6EC7?style=for-the-badge&logo=transformers&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-00ffff?style=for-the-badge&logo=rest-api&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 ---
 
 ### 💡 Soft Skills
-<p style="color:#ffffff; font-family:'Verdana', sans-serif;">
 🗣 Persuasive Speaking · 🧠 Problem Solving · 🤝 Teamwork · ⏱ Time Management · 🏆 Leadership · 💬 Effective Communication · 🔍 Critical Thinking · 💡 Idea Development
-</p>
 
 ---
 
 <div align="center">
-  <h2 id="animated-text" style="color:#39ff14; font-family:'Courier New', monospace; text-shadow:0 0 5px #39ff14,0 0 10px #39ff14;">✨ Hi, I'm Joelraj! ✨</h2>
+✨ <span style="color:#39ff14;">Hi, I'm Joelraj!</span> ✨ | 🚀 <span style="color:#00ffff;">Data Science Enthusiast</span> | 🤖 <span style="color:#ff6ec7;">AI Practitioner</span>
 </div>
-
-<script>
-const greeting = ["✨ Hi, I'm Joelraj! ✨", "🚀 Data Science Enthusiast", "🤖 AI Practitioner"];
-let i = 0;
-function animateText() {
-  document.getElementById("animated-text").innerText = greeting[i];
-  i = (i + 1) % greeting.length;
-}
-setInterval(animateText, 2500);
-</script>

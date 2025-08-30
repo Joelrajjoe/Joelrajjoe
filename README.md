@@ -3,10 +3,12 @@
   <img src="https://raw.githubusercontent.com/Joelrajjoe/Joelrajjoe/main/banner.gif" alt="Joelraj J | Data Science & AI Enthusiast" width="95%">
 </p>
 
+
 <!-- Glowing Motion Text -->
 <p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=shine&text1=Hi%20all,%20I'm%20Joelraj&width=800&height=100" alt="Glowing Neon Text" />
+  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=Hi%20All,%20I'm%20Joelraj&width=800&height=150" alt="Glowing Motion Text" />
 </p>
+
 
 ---
 

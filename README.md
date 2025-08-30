@@ -3,9 +3,9 @@
   <img src="https://raw.githubusercontent.com/Joelrajjoe/Joelrajjoe/main/banner.gif" alt="Joelraj J | Data Science & AI Enthusiast" width="95%">
 </p>
 
-<!-- Typing SVG Animation -->
+<!-- Glowing Motion Text -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=3000&pause=1000&color=5BC0BE&center=true&vCenter=true&width=800&lines=👋+Hello!+I'm+Joelraj+J;🚀+Data+Science+Passionate;🤖+AI+Enthusiast;💡+Innovator+%7C+Problem+Solver" alt="Typing animation" />
+  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=👋%20Hi%20all%2C%20I'm%20Joelraj&width=800&height=150" alt="Glowing Motion Text" />
 </p>
 
 ---
@@ -13,7 +13,7 @@
 ## 🌟 About Me  
 
 ✨ A **Data Science & AI enthusiast** passionate about solving real-world challenges with intelligent solutions.  
-🏆 Gained experience through **hackathons, internships, and AI-driven projects**.  
+🏆 Experienced through **hackathons, internships, and AI-driven projects**.  
 ⚡ Always exploring **new technologies and innovative ideas** to push the limits.  
 
 ---
@@ -69,7 +69,7 @@
 
 <p align="center">
   <a href="mailto:joelraj712@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/joelraj-j-370300293t"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/joelraj-j-370300293"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/Joelrajjoe"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 

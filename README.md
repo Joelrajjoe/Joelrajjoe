@@ -6,7 +6,19 @@
 
 <!-- Glowing Motion Text -->
 <p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=Hi%20All,%20I'm%20Joelraj&width=800&height=150" alt="Glowing Motion Text" />
+  <svg viewBox="0 0 1000 200" xmlns="http://www.w3.org/2000/svg">
+    <text x="50%" y="50%" text-anchor="middle"
+          fill="url(#gradient)" font-size="48" font-family="Poppins, sans-serif">
+      Hi All, I'm Joelraj
+      <animate attributeName="fill" values="#00e1ff;#ff00f7;#00e1ff" dur="4s" repeatCount="indefinite"/>
+    </text>
+    <defs>
+      <linearGradient id="gradient" gradientTransform="rotate(90)">
+        <stop offset="0%" stop-color="#00e1ff"/>
+        <stop offset="100%" stop-color="#ff00f7"/>
+      </linearGradient>
+    </defs>
+  </svg>
 </p>
 
 
@@ -77,13 +89,7 @@ I am a **Data Science & AI enthusiast** passionate about solving real-world chal
 
 ---
 
-## 🐍 Contribution Snake Animation  
 
-<p align="center">
-  <img src="https://github.com/Joelrajjoe/Joelrajjoe/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
----
 
 <p align="center">
   <i>“Building, learning, and collaborating to solve real-world problems with technology.”</i>

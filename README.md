@@ -6,7 +6,7 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=Welcome&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
   <!-- Name Animation -->
-  ![Name Animation](https://readme-typing-svg.demolab.com?font=Orbitron&size=40&duration=3000&pause=1000&color=39FF14&center=true&width=650&lines=✨+Hi+All%2C+I'm+Joelraj+J+✨)
+  ![Name Animation](https://readme-typing-svg.demolab.com?font=Orbitron&size=40&duration=3000&pause=1000&color=39FF14&center=true&width=650&lines=Hi+All%2C+I'm+Joelraj+J)
 
   <!-- Role Animation -->
   ![Role Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1500&color=00FFFF&center=true&width=650&lines=💻+Data+Science+Enthusiast;🤖+AI+Practitioner;🚀+Innovation+Explorer)

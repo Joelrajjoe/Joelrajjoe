@@ -81,12 +81,3 @@ Persuasive Speaking · Problem Solving · Teamwork · Time Management · Leaders
   <h2 id="animated-text" style="color:#39ff14; font-family:'Courier New', monospace; text-shadow:0 0 5px #39ff14,0 0 10px #39ff14;">Hi, I'm Joelraj!</h2>
 </div>
 
-<script>
-const greeting = ["Hi, I'm Joelraj!", "Data Science Enthusiast", "AI Practitioner"];
-let i = 0;
-function animateText() {
-  document.getElementById("animated-text").innerText = greeting[i];
-  i = (i + 1) % greeting.length;
-}
-setInterval(animateText, 2500);
-</script>
